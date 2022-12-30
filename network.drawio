@@ -1,53 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T02:33:01.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="X50Bivxd0cN9R0wp90_Q" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T02:38:54.995Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XbLaRRstlxJ8x8BO-9TN" version="20.7.4" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1434" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_WVn60v9LsM-YPeAkgen-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="370" y="425" width="280" height="280" as="geometry" />
+        <mxCell id="_WVn60v9LsM-YPeAkgen-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="410" y="455" width="280" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="_WVn60v9LsM-YPeAkgen-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_WVn60v9LsM-YPeAkgen-3">
+        <mxCell id="_WVn60v9LsM-YPeAkgen-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Port Lan &lt;br style=&quot;font-size: 16px;&quot;&gt;1 - 3&lt;br style=&quot;font-size: 16px;&quot;&gt;192.168.1.1&lt;br style=&quot;font-size: 16px;&quot;&gt;DHCP 10-150&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="69ecfefc5c41e42c-3" target="_WVn60v9LsM-YPeAkgen-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="110" as="sourcePoint" />
+            <mxPoint x="370" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_WVn60v9LsM-YPeAkgen-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Port Lan &lt;br&gt;1 - 3&lt;br style=&quot;font-size: 15px;&quot;&gt;192.168.1.1&lt;br style=&quot;font-size: 15px;&quot;&gt;DHCP 10-150&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="69ecfefc5c41e42c-3" target="_WVn60v9LsM-YPeAkgen-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_WVn60v9LsM-YPeAkgen-10" value="Port Lan 4&lt;br style=&quot;font-size: 15px;&quot;&gt;192.168.4.1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="69ecfefc5c41e42c-3" target="_WVn60v9LsM-YPeAkgen-9">
-          <mxGeometry x="-0.5385" relative="1" as="geometry">
+        <mxCell id="_WVn60v9LsM-YPeAkgen-10" value="Port Lan 4&lt;br style=&quot;font-size: 16px;&quot;&gt;192.168.4.1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="69ecfefc5c41e42c-3" target="_WVn60v9LsM-YPeAkgen-9">
+          <mxGeometry x="-0.25" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_WVn60v9LsM-YPeAkgen-15" value="Port Lan 5&lt;br&gt;192.168.5.1&lt;br&gt;DHCP 10-150" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="69ecfefc5c41e42c-3" target="_WVn60v9LsM-YPeAkgen-14">
+        <mxCell id="_WVn60v9LsM-YPeAkgen-15" value="Port Lan 5&lt;br style=&quot;font-size: 16px;&quot;&gt;192.168.5.1&lt;br style=&quot;font-size: 16px;&quot;&gt;DHCP 10-150" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="69ecfefc5c41e42c-3" target="_WVn60v9LsM-YPeAkgen-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="69ecfefc5c41e42c-3" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Firewall_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=15;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="470" y="290" width="80" height="80" as="geometry" />
+        <mxCell id="69ecfefc5c41e42c-3" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Firewall_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=16;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="510" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_WVn60v9LsM-YPeAkgen-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="_WVn60v9LsM-YPeAkgen-3" target="69ecfefc5c41e42c-3">
+        <mxCell id="_WVn60v9LsM-YPeAkgen-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="_WVn60v9LsM-YPeAkgen-3" target="69ecfefc5c41e42c-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_WVn60v9LsM-YPeAkgen-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;True Internet&lt;br style=&quot;&quot;&gt;Bridge mode&lt;br&gt;To Fortigate Fire Wall&lt;br&gt;DDNS: 4test.click&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/networking/Bridge_128x128.png;fontSize=12;spacingTop=31;" vertex="1" parent="1">
-          <mxGeometry x="470" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="90" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_WVn60v9LsM-YPeAkgen-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Home Wifi &lt;br&gt;192.168.1.254&lt;br style=&quot;font-size: 15px;&quot;&gt;APO_FAMILY_2G&lt;br style=&quot;font-size: 15px;&quot;&gt;APO_FAMILY_5G&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="80" height="80" as="geometry" />
+        <mxCell id="_WVn60v9LsM-YPeAkgen-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Home Wifi &lt;br style=&quot;font-size: 16px;&quot;&gt;192.168.1.254&lt;br style=&quot;font-size: 16px;&quot;&gt;APO_FAMILY_2G&lt;br style=&quot;font-size: 16px;&quot;&gt;APO_FAMILY_5G&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_WVn60v9LsM-YPeAkgen-9" value="EXSI Server&lt;br&gt;192.168.4.111" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="455" y="450" width="110" height="50" as="geometry" />
+        <mxCell id="_WVn60v9LsM-YPeAkgen-9" value="EXSI Server&lt;br style=&quot;font-size: 16px;&quot;&gt;192.168.4.111" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="495" y="480" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_WVn60v9LsM-YPeAkgen-12" value="VM Windows 10&lt;br style=&quot;font-size: 15px;&quot;&gt;192.168.4.20" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="565" y="580" width="40" height="50" as="geometry" />
+        <mxCell id="_WVn60v9LsM-YPeAkgen-12" value="VM Windows 10&lt;br style=&quot;font-size: 16px;&quot;&gt;192.168.4.20" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="605" y="610" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_WVn60v9LsM-YPeAkgen-13" value="VM CentOS 7&lt;br style=&quot;font-size: 15px;&quot;&gt;192.168.4.10" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="430" y="580" width="40" height="50" as="geometry" />
+        <mxCell id="_WVn60v9LsM-YPeAkgen-13" value="VM CentOS 7&lt;br style=&quot;font-size: 16px;&quot;&gt;192.168.4.10" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="470" y="610" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_WVn60v9LsM-YPeAkgen-14" value="IoT Wifi &lt;br&gt;192.168.5.254&lt;br&gt;apohome2g&lt;br&gt;&lt;br&gt;Guest wifi&lt;br&gt;APO_VIP" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;fontSize=15;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="750" y="290" width="80" height="80" as="geometry" />
+        <mxCell id="_WVn60v9LsM-YPeAkgen-14" value="IoT Wifi 192.168.5.254&lt;br style=&quot;font-size: 16px;&quot;&gt;apohome2g&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Guest wifi&lt;br style=&quot;font-size: 16px;&quot;&gt;APO_VIP" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
